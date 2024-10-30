@@ -36,16 +36,25 @@ nav a[aria-current='page'] {
   background-color: #d4d4d4;
 }
 
+header {
+  background-color: antiquewhite;
+}
+
 .landing {
   max-width: 100svh;
   min-width: auto;
 }
 
 main {
+  background-color: aquamarine;
   padding: 1rem;
 }
 
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
+}
+
+footer {
+  background-color: #555;
 }
